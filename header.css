@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    margin-bottom: 80px;
+    padding-bottom: 40px;
+    border-bottom: 4px dotted white;
+}
+.header-text{
+    font-size: 75px;
+    font-family: 'Pacifico', cursive;
+    color: aliceblue;
+}
