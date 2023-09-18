@@ -5,6 +5,11 @@
     height: 100%;
     width: 32%;
 }
+@media (max-width: 768px) {
+    .blog-strip{
+        width: 80%;
+    }
+}
 .blog-redirect{
     display: flex;
     flex-direction: column;
@@ -19,11 +24,6 @@
     background-color: rgb(23, 107, 135);
     padding-top: 20px;
     text-decoration: none;
-}
-@media (max-width: 768px) {
-    .blog-strip{
-        width: 80%;
-    }
 }
 .blog-redirect:hover{
     opacity: 80%;
